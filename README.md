@@ -40,6 +40,10 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 </div>
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinarafat5353&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=yasinarafat5353&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasinarafat5353&theme=dark&hide_border=false)
+
 
 </div><br>
 
