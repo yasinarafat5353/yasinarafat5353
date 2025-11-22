@@ -1,7 +1,21 @@
 
-# 👋 Hi, I'm Md Yasin Arafat  
-### MERN Stack Web Developer | React.js & Next.js Enthusiast  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+# 👋 Hi, I'm Md Yasin Arafat 
+
+### MERN Stack Web Developer | React.js & Next.js Enthusiast 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" />
+  <a href="https://github.com/yasinarafat5353">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@yasin.arafat.belali">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/yasinarafatbelali">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
+ 
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
